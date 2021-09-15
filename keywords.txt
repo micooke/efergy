@@ -1,0 +1,38 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+efergy_tx	KEYWORD1
+efergy_rx	KEYWORD1
+efergy	KEYWORD1
+state	KEYWORD1
+data_frame	KEYWORD1
+efergy_e2	KEYWORD1
+buffer64b	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+stop	KEYWORD2
+start	KEYWORD2
+send	KEYWORD2
+print	KEYWORD2
+push	KEYWORD2
+pop	KEYWORD2
+raw	KEYWORD2
+set	KEYWORD2
+debug_print	KEYWORD2
+debug_println	KEYWORD2
+pow	KEYWORD2
+getCurrent_milliAmps	KEYWORD2
+getPower_Watts	KEYWORD2
+checksumIsGood	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+S0	LITERAL1
+S1	LITERAL1
+S2	LITERAL1
